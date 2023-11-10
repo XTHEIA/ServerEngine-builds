@@ -3,12 +3,12 @@
         {
             "os": "Windows",
             "version":"1.0.2",
-            "file":"latest/win/ServerEngine.zip"
+            "file":"win/ServerEngine.zip"
         },
         {
             "os": "MacOS",
             "version":"1.0.2",
-            "file":"latest/mac/ServerEngine.zip"
+            "file":"mac/ServerEngine.zip"
         }
     ]
 }
