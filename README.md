@@ -9,4 +9,4 @@ Repository for distributing builds of [Server Engine](https://xtheia.github.io/S
 ## Useful links
 
 [Latest Release (최신 릴리즈)](https://github.com/XTHEIA/ServerEngine-builds/releases/latest)   
-[Server Engine Webpage (Server Engine 웹페이지)](https://xtheia.github.io/ServerEngine-web/)   
+[Server Engine Website (Server Engine 웹사이트)](https://xtheia.github.io/ServerEngine-web/)   
